@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902834471473",
+    "firebase_url": "https://smart-hos.firebaseio.com",
+    "project_id": "smart-hos",
+    "storage_bucket": "smart-hos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902834471473:android:aae3f929a8ba2be561cb10",
+        "android_client_info": {
+          "package_name": "com.hatem.smart_hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902834471473-9sc3kh6d5ur2h1mcf0rsisslvu6gcolu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4u5hBA9YVBesGkPt4LVs_SDC7lPZTyrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902834471473-9sc3kh6d5ur2h1mcf0rsisslvu6gcolu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
