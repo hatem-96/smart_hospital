@@ -45,7 +45,7 @@ try{
   AuthResult result =await _auth.createUserWithEmailAndPassword(email: email, password:password);
   FirebaseUser user=result.user;
   //create a new document for the user with the unique uid
-  await DatabaseService(uid:user.uid).updateUserData('Hatem', 'Engineer', 24, 01064284946);
+  await DatabaseService(uid:user.uid).updateUserData('name', 'jobe',20,'phone' );
   return _userFromFirebaseUser(user);
 }
 catch(e)
